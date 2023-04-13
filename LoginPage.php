@@ -1,7 +1,7 @@
 <?php include "../inc/dbinfo.inc"; ?>
 <html>
 <body>
-<h1>Login page Klesti</h1>
+<h1>Login page</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
